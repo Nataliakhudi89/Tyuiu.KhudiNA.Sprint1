@@ -11,7 +11,7 @@ using Tyuiu.KhudiNA.Sprint1.Task0.V27.Lib;
 
 namespace Tyuiu.KhudiNA.Sprint1.Task27.V0
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
