@@ -12,7 +12,7 @@ namespace Tyuiu.KhudiNA.Sprint1.Task2.V19.Lib
     {
         public double ConvertInchToKm(int value)
         {
-            return (value * 0.621);
+            return Math.Round(value / 39.37, 3);
         }
     }
 }
