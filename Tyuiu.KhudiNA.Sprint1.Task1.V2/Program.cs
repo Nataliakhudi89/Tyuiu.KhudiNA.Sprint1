@@ -8,13 +8,13 @@ namespace Tyuiu.KhudiNA.Sprint1.Task1.V2
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #0 | выполнил: Корнев Р. М. | ИСПб-24-1";
+            Console.Title = "Спринт # 1 | Выполнила: Худи Н. А. | ИСТНб-24-1";
             Console.WriteLine("***********************************************************************");
             Console.WriteLine("* Спринт #0                                                           *");
             Console.WriteLine("* Тема: Создание итогового решения по спринту                         *");
             Console.WriteLine("* Задание #7                                                          *");
             Console.WriteLine("* Вариант #0                                                          *");
-            Console.WriteLine("* Выполнил: Корнев Руслан Максимович  |  ИСПб-24-1                    *");
+            Console.WriteLine("* Выполнила: Худи Наталья Александровна  |  ИСТНб-24-1                *");
             Console.WriteLine("***********************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                            *");
             Console.WriteLine("* Написать консольную программу на С#, Которая суммирует значение двух*");
